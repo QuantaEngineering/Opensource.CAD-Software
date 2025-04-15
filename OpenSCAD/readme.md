@@ -7,3 +7,4 @@
 video:
 - [3D Modeling with Code! The best demo (OpenSCAD)](https://youtu.be/KrFttd5D1cw)
 - [OpenSCAD - Project Enclosure - Create round corners with Minkowski Sum](https://youtu.be/lPgLZgnbREk)
+- [OpenSCAD - Project Enclosure - Part 2 - The Lid](https://youtu.be/11xHKq7Q-nY)
